@@ -1,0 +1,40 @@
+*{
+    background-color: burlywood;
+}
+
+header{
+    text-align: center;
+    color: aliceblue;
+}
+
+aside{
+    height: 200px;
+    width: 500px;
+}
+
+img{
+    border-radius: 100%;
+}
+
+section{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: -170px;
+    color: blueviolet;
+}
+
+
+footer{
+    margin-top: 100px;
+    color: violet;
+}
+
+marquee{
+    display: block;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+i{
+    color: aqua;
+}
